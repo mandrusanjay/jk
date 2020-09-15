@@ -22,6 +22,5 @@
 	<div id="sushi">J.K</div>
 	<div><p>king-kong get the drum roll..rolling roll like a rolling stone..</p></div>
 </div>
-</div>
 </body>
 </html>
